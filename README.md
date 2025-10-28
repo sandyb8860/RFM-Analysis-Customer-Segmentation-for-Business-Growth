@@ -73,6 +73,8 @@ Implementing RFM Analysis delivers measurable business outcomes:
 - Score 5 = Best, Score 1 = Needs Attention
 - Create composite RFM scores (e.g., 555 = Champions, 111 = Lost Customers)
 
+<img width="948" height="748" alt="image" src="https://github.com/user-attachments/assets/05164068-4955-4be8-8acd-f6fd35f2c4df" />
+
 ### Step 4: Customer Segmentation
 Group customers into actionable segments:
 - **Champions** (555, 554, 544): Best customers, buy often, spend most
