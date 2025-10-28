@@ -23,6 +23,9 @@ RFM (Recency, Frequency, Monetary) Analysis is a powerful customer segmentation 
 - Provide personalized discounts or incentives.
 - Ask for feedback to understand reasons for disengagement.
 
+<img width="1420" height="526" alt="image" src="https://github.com/user-attachments/assets/1856a8de-e808-4263-bc80-495ec919815a" />
+
+
 ## 💼 Business Impact
 Implementing RFM Analysis delivers measurable business outcomes:
 - **Increased ROI on Marketing**: Target the right customers with tailored messaging, reducing wasted spend by up to 40%
