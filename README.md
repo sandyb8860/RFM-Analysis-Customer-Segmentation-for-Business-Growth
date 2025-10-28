@@ -25,6 +25,24 @@ RFM (Recency, Frequency, Monetary) Analysis is a powerful customer segmentation 
 
 <img width="1420" height="526" alt="image" src="https://github.com/user-attachments/assets/1856a8de-e808-4263-bc80-495ec919815a" />
 
+- Two heatmaps analyze customer segments by their Recency (how recently they bought) and Frequency (how often they buy) scores.
+
+- Left heatmap: Shows the average monetary value for each Recency-Frequency (R-F) score combination.
+
+- Darker shades represent higher spending.
+
+- Highest average monetary values are seen among customers with high R and F scores (recent, frequent buyers).
+
+- Right heatmap: Shows the density (number) of customers per Recency-Frequency combination.
+
+- Warmer colors indicate a larger number of customers in that segment.
+
+- Helps highlight which R-F score combinations are most common in the customer base.
+
+- Comparing both charts allows you to spot valuable customer segments (high spending, recent/frequent buyers) and areas with the most customers.
+
+These insights inform targeted marketing: focus on retaining top-value segments and engaging common customer groups for greater business impact.
+
 
 ## 💼 Business Impact
 Implementing RFM Analysis delivers measurable business outcomes:
